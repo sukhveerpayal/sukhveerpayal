@@ -1,6 +1,6 @@
-# Hi there 👋 Whatsup
+# Hi there 👋 What's up
 
-<h3 align="left">I’m Sukhveer, a passionate beginner diving into the world of coding!</h3>
+<h3 align="left"> Hey I’m Sukhveer, a passionate beginner diving into the world Binary language!</h3>
 
 🌱 I’m currently learning: Python, Sql, HTML, CSS, and JavaScript.  
 🚀 My goal: To become best version of Myself and contribute to Open-Source Communities.  
